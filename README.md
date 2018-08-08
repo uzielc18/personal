@@ -2,14 +2,10 @@
 Esta es un demo de como trabajar un archivo
 
 
-## Preview
+## Redes sociales
 
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
-
-## Status
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-resume/master/LICENSE)
+[![facebook](https://www.facebook.com/uzielcarpio)](https://www.facebook.com)
 [![npm version](https://img.shields.io/npm/v/startbootstrap-resume.svg)](https://www.npmjs.com/package/startbootstrap-resume)
 [![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-resume.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-resume)
 [![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-resume/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-resume)
